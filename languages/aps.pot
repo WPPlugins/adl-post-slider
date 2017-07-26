@@ -1,0 +1,436 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress Blank Pot v1.0.0\n"
+"POT-Creation-Date: 2016-08-10 00:48+0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Your Name <you@example.com>\n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: adl-post-slider.php:77
+msgid "Sorry! This is not your place!"
+msgstr ""
+
+#: includes/aps-cpt-columns.php:12
+msgid "Slider Name"
+msgstr ""
+
+#: includes/aps-cpt-columns.php:13
+msgid "Slider Shortcode"
+msgstr ""
+
+#: includes/aps-cpt-columns.php:14
+msgid "Shortcode For Template File"
+msgstr ""
+
+#: includes/aps-cpt-columns.php:15
+msgid "Created at"
+msgstr ""
+
+#: includes/aps-cpt.php:22
+msgctxt "add new text"
+msgid "Add New"
+msgstr ""
+
+#: includes/aps-cpt.php:23
+msgid "Add New "
+msgstr ""
+
+#: includes/aps-cpt.php:24
+msgid "New "
+msgstr ""
+
+#: includes/aps-cpt.php:25
+msgid "Edit "
+msgstr ""
+
+#: includes/aps-cpt.php:26
+msgid "View "
+msgstr ""
+
+#: includes/aps-cpt.php:27
+msgid "All "
+msgstr ""
+
+#: includes/aps-cpt.php:28
+msgid "Search "
+msgstr ""
+
+#: includes/aps-cpt.php:29
+msgid "Parent "
+msgstr ""
+
+#: includes/aps-cpt.php:30
+msgid "No sliders found."
+msgstr ""
+
+#: includes/aps-cpt.php:31
+msgid "No books found in Trash."
+msgstr ""
+
+#: includes/aps-cpt.php:36
+msgid "Description."
+msgstr ""
+
+#: includes/aps-featured-post.php:15
+msgid "Featured"
+msgstr ""
+
+#: includes/aps-metabox.php:9
+msgid "Slider Settings & Shortcode Generator"
+msgstr ""
+
+#: includes/aps-metabox.php:134
+msgid "General Settings"
+msgstr ""
+
+#: includes/aps-metabox.php:135
+msgid "Slider Settings"
+msgstr ""
+
+#: includes/aps-metabox.php:136
+msgid "Style Settings"
+msgstr ""
+
+#: includes/aps-metabox.php:148
+msgid "Display Header"
+msgstr ""
+
+#: includes/aps-metabox.php:159
+msgid "Display slider header or not"
+msgstr ""
+
+#: includes/aps-metabox.php:166
+msgid "Select a Theme"
+msgstr ""
+
+#: includes/aps-metabox.php:170
+msgid "Theme A"
+msgstr ""
+
+#: includes/aps-metabox.php:171
+msgid "Theme B"
+msgstr ""
+
+#: includes/aps-metabox.php:175
+msgid "Theme C"
+msgstr ""
+
+#: includes/aps-metabox.php:176
+msgid "Theme D"
+msgstr ""
+
+#: includes/aps-metabox.php:185
+msgid "Title Above Slider"
+msgstr ""
+
+#: includes/aps-metabox.php:188 includes/aps-metabox.php:212
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/aps-metabox.php:189
+msgid "Slider title"
+msgstr ""
+
+#: includes/aps-metabox.php:197
+msgid "Total Posts"
+msgstr ""
+
+#: includes/aps-metabox.php:201
+msgid "How many posts to display in the slider"
+msgstr ""
+
+#: includes/aps-metabox.php:208
+msgid "Posts Query Type"
+msgstr ""
+
+#: includes/aps-metabox.php:214
+msgid "Older Posts"
+msgstr ""
+
+#: includes/aps-metabox.php:216
+msgid "Featured Posts"
+msgstr ""
+
+#: includes/aps-metabox.php:218
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/aps-metabox.php:224
+msgid "Posts by Category"
+msgstr ""
+
+#: includes/aps-metabox.php:227
+msgid "Posts by ID"
+msgstr ""
+
+#: includes/aps-metabox.php:232
+msgid "Posts by Tags"
+msgstr ""
+
+#: includes/aps-metabox.php:235
+msgid "Posts by Year"
+msgstr ""
+
+#: includes/aps-metabox.php:238
+msgid "Posts by Month"
+msgstr ""
+
+#: includes/aps-metabox.php:242
+msgid "Select how you like to display post"
+msgstr ""
+
+#: includes/aps-metabox.php:251
+msgid "Show featured image"
+msgstr ""
+
+#: includes/aps-metabox.php:261
+msgid ""
+"Display featured image of the post. If featured image is not found "
+"then the first image from the post content will be used."
+msgstr ""
+
+#: includes/aps-metabox.php:269
+msgid "Use Placeholder image"
+msgstr ""
+
+#: includes/aps-metabox.php:279
+msgid ""
+"Display a featured image placeholder if a post has no featured image ?"
+msgstr ""
+
+#: includes/aps-metabox.php:287
+msgid "Upload Placeholder image"
+msgstr ""
+
+#: includes/aps-metabox.php:296
+msgid ""
+"Upload a featured image placeholder. Otherwise, plugin's default image "
+"will be used"
+msgstr ""
+
+#: includes/aps-metabox.php:308
+msgid "Auto Crop and Resize Image"
+msgstr ""
+
+#: includes/aps-metabox.php:318
+msgid ""
+"Enable cropping and resizing image automatically. If you use this "
+"feature, then you can not use default placeholder that comes with this "
+"plugin. You need to upload your own default placeholder image if you "
+"want to use."
+msgstr ""
+
+#: includes/aps-metabox.php:326
+msgid "Image Width"
+msgstr ""
+
+#: includes/aps-metabox.php:330
+msgid "Image width value in pixel."
+msgstr ""
+
+#: includes/aps-metabox.php:337
+msgid "Image Height"
+msgstr ""
+
+#: includes/aps-metabox.php:341
+msgid "Image height value in pixel."
+msgstr ""
+
+#: includes/aps-metabox.php:349
+msgid "Display Post Title"
+msgstr ""
+
+#: includes/aps-metabox.php:359
+msgid "Enable it to show the Post Title."
+msgstr ""
+
+#: includes/aps-metabox.php:369
+msgid "Display Post Date"
+msgstr ""
+
+#: includes/aps-metabox.php:379
+msgid "Enable it to show the Post Date under the title."
+msgstr ""
+
+#: includes/aps-metabox.php:389
+msgid "Display Excerpt"
+msgstr ""
+
+#: includes/aps-metabox.php:399
+msgid "Enable it to show the Post Excerpt."
+msgstr ""
+
+#: includes/aps-metabox.php:408
+msgid "Excerpt Length"
+msgstr ""
+
+#: includes/aps-metabox.php:412
+msgid "Insert the number of words you would like to show as Excerpt."
+msgstr ""
+
+#: includes/aps-metabox.php:439
+msgid "Auto Play"
+msgstr ""
+
+#: includes/aps-metabox.php:449
+msgid "Play slider's slide automatically ? "
+msgstr ""
+
+#: includes/aps-metabox.php:457
+msgid "Stop on Hover"
+msgstr ""
+
+#: includes/aps-metabox.php:467
+msgid "Stop slider's slide autoplay on mouse hover ?"
+msgstr ""
+
+#: includes/aps-metabox.php:475
+msgid "Display Navigation Arrows"
+msgstr ""
+
+#: includes/aps-metabox.php:485
+msgid "Display slider Navigation Arrow or not"
+msgstr ""
+
+#: includes/aps-metabox.php:493
+msgid "Show Dots Pagination"
+msgstr ""
+
+#: includes/aps-metabox.php:503
+msgid "Show dots pagination below the slider?"
+msgstr ""
+
+#: includes/aps-metabox.php:510
+msgid "Slide Speed"
+msgstr ""
+
+#: includes/aps-metabox.php:514
+msgid "1000 means 1 second."
+msgstr ""
+
+#: includes/aps-metabox.php:522
+msgid "Show Posts on Desktop"
+msgstr ""
+
+#: includes/aps-metabox.php:526
+msgid ""
+"Maximum amount of posts to display at a time on Desktop or Large "
+"Screen Devices."
+msgstr ""
+
+#: includes/aps-metabox.php:535
+msgid "Show Posts on Tablet"
+msgstr ""
+
+#: includes/aps-metabox.php:539
+msgid "Maximum amount of posts to display at a time on Tablet Screen."
+msgstr ""
+
+#: includes/aps-metabox.php:547
+msgid "Show Posts on Mobile"
+msgstr ""
+
+#: includes/aps-metabox.php:551
+msgid "Maximum amount of posts to display at a time on Mobile Screen."
+msgstr ""
+
+#: includes/aps-metabox.php:574
+msgid "Slider Title Font Size"
+msgstr ""
+
+#: includes/aps-metabox.php:584
+msgid "Slider Title Font Color"
+msgstr ""
+
+#: includes/aps-metabox.php:594
+msgid "Navigational Arrow Color"
+msgstr ""
+
+#: includes/aps-metabox.php:604
+msgid "Navigational Arrow Background Color"
+msgstr ""
+
+#: includes/aps-metabox.php:614
+msgid "Navigational Arrow Hover Color"
+msgstr ""
+
+#: includes/aps-metabox.php:624
+msgid "Navigational Arrow Background Hover Color"
+msgstr ""
+
+#: includes/aps-metabox.php:634
+msgid "Slider Border Color"
+msgstr ""
+
+#: includes/aps-metabox.php:638
+msgid "Border Color if you use \"THEME B\" or \"THEME D\" "
+msgstr ""
+
+#: includes/aps-metabox.php:645
+msgid "Slider Border Hover Color"
+msgstr ""
+
+#: includes/aps-metabox.php:649
+msgid "Border Hover Color if you use \"THEME B\" or \"THEME D\" "
+msgstr ""
+
+#: includes/aps-metabox.php:656
+msgid "Post Title Font Size"
+msgstr ""
+
+#: includes/aps-metabox.php:669
+msgid "Post Title Font Color"
+msgstr ""
+
+#: includes/aps-metabox.php:679
+msgid "Post Title Hover Font Color"
+msgstr ""
+
+#: includes/aps-metabox.php:699
+msgid "Shortcode"
+msgstr ""
+
+#: includes/aps-metabox.php:700
+msgid "Use following shortcode to display the Post Slider anywhere:"
+msgstr ""
+
+#: includes/aps-metabox.php:703
+msgid ""
+"If you need to put the shortcode inside php code/template file, use "
+"this:"
+msgstr ""
+
+#: includes/aps-shortcode.php:11
+msgid " ...read more → "
+msgstr ""
+
+#: includes/aps-shortcode.php:315
+msgid "No Post Found."
+msgstr ""
+
+#: includes/upgrade-support.php:29
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/upgrade-support.php:29
+msgid "Upgrade"
+msgstr ""

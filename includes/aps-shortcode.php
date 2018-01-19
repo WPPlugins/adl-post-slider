@@ -92,6 +92,7 @@ function aps_shortcode_output($atts, $content = null) {
     $aps_excerpt_length = get_post_meta( $shorcode_id, 'aps_excerpt_length', true );
 
     $aps_auto_play = get_post_meta( $shorcode_id, 'aps_auto_play', true );
+    $aps_auto_play = $aps_auto_play === 'no' ? false : $aps_auto_play;
     $aps_stop_on_hover = get_post_meta( $shorcode_id, 'aps_stop_on_hover', true );
     $aps_slide_speed = get_post_meta( $shorcode_id, 'aps_slide_speed', true );
     $aps_item_on_desktop = get_post_meta( $shorcode_id, 'aps_item_on_desktop', true );
@@ -252,7 +253,7 @@ function aps_shortcode_output($atts, $content = null) {
                         autoWidth:false,
                         responsiveClass:true,
                         dots:false,
-                        autoplay:true,
+                        autoplay:<?php var_export($aps_auto_play); ?>,
 
                         autoplayTimeout: <?php echo $aps_slide_speed; ?>,
                         autoplayHoverPause: false,
